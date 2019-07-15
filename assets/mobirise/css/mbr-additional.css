@@ -1662,7 +1662,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rwgftFmRL0 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 6.6rem);
   }
 }
 .cid-rwgftFmRL0 .collapsed button.navbar-toggler {
@@ -1910,4 +1910,7 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rwgjJs3ayK .mbr-gallery-item > div > span {
+  text-align: center;
 }
