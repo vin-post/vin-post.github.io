@@ -688,19 +688,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Книги Арсеньева в моей судьбе",
-                "active": false
-              },
-              {
-                "tags": "Вам удалось объеденить в себе...",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-1111x786.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1111x786-800x566.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Вам удалось объеденить в себе",
                 "active": true
               }
             ]
