@@ -1821,7 +1821,7 @@ body {
   color: #767676 !important;
 }
 .cid-rwgiVDZl2N {
-  background-image: url("../../../assets/images/fon-2000x1415.jpg");
+  background-image: url("../../../assets/images/fon-1-2000x1415.jpg");
 }
 .cid-rwgiVDZl2N .icons-media-container {
   display: flex;
@@ -2693,6 +2693,12 @@ body {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
+.cid-rwl6vmlgRV H4 {
+  text-align: left;
+}
+.cid-rwl6vmlgRV P {
+  text-align: left;
+}
 .cid-rwlpCzDbXw {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -2728,6 +2734,7 @@ body {
 }
 .cid-rwlpD8w8Xu .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rwls34seu4 {
   padding-top: 15px;
@@ -2764,6 +2771,7 @@ body {
 }
 .cid-rwls3icpGE .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rwlvWsZhWP {
   padding-top: 15px;
@@ -2800,6 +2808,7 @@ body {
 }
 .cid-rwlvWGy0Qb .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rwlw12qBdj {
   padding-top: 15px;
@@ -2836,6 +2845,7 @@ body {
 }
 .cid-rwlw1dE3ra .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rwlw5uqTZk {
   padding-top: 15px;
@@ -2943,6 +2953,12 @@ body {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-rwlCmfkOll H4 {
+  text-align: left;
+}
+.cid-rwlCmfkOll P {
+  text-align: left;
 }
 .cid-rwm5VBgoOW {
   padding-top: 30px;
@@ -3068,5 +3084,8 @@ body {
 }
 .cid-rwmeNAl5S9 .user_desk {
   color: #232323;
+  text-align: center;
+}
+.cid-rwmeNAl5S9 .user_text {
   text-align: center;
 }
