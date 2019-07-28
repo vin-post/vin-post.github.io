@@ -1821,7 +1821,7 @@ body {
   color: #767676 !important;
 }
 .cid-rwgiVDZl2N {
-  background-image: url("../../../assets/images/fon-1-2000x1415.jpg");
+  background-image: url("../../../assets/images/fon-3-2000x1415.jpg");
 }
 .cid-rwgiVDZl2N .icons-media-container {
   display: flex;
@@ -1848,6 +1848,18 @@ body {
 }
 .cid-rwgiVDZl2N H5 {
   color: #7f1933;
+}
+.cid-rxdf2EB4X1 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #073b4c, #b1a374);
+}
+.cid-rxdf2EB4X1 .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-rxdf2EB4X1 P {
+  color: #efefef;
 }
 .cid-rwgL3qnr1g {
   padding-top: 15px;
