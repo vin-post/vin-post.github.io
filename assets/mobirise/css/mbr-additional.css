@@ -2021,6 +2021,19 @@ body {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-rZWRxGV6NJ {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 15px;
+}
+.cid-rZWRxGV6NJ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rZWRxGV6NJ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rwwEXcuSrz {
   padding-top: 15px;
   padding-bottom: 15px;
