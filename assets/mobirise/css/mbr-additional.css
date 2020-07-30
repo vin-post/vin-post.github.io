@@ -1181,6 +1181,90 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s6cu5AKKmQ {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s6cu5AKKmQ .mbr-section-subtitle,
+.cid-s6cu5AKKmQ .mbr-text {
+  color: #767676;
+}
+.cid-s6cu5AKKmQ .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s6cu5AKKmQ .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-img .mbr-overlay {
+  background-color: #ffffff;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-img .mbr-section-btn {
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-s6cu5AKKmQ .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-s6cu5AKKmQ .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.cid-s6cu5AKKmQ .card-img .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-s6cu5AKKmQ .card-img .mbr-section-btn {
+  opacity: 0;
+}
+.cid-s6cu5AKKmQ .card-img:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-s6cu5AKKmQ .card-img:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-s6cu5AKKmQ .mbr-text {
+  text-align: center;
+}
 .cid-s6bfmx1a6z {
   padding-top: 15px;
   padding-bottom: 0px;
