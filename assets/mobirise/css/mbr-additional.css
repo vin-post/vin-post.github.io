@@ -1767,6 +1767,49 @@ section.lazy-placeholder:after {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-sSnkGm6M6s {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-sSnkGm6M6s .card-img {
+  background-color: #fff;
+}
+.cid-sSnkGm6M6s .card {
+  align-self: stretch;
+}
+.cid-sSnkGm6M6s .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-sSnkGm6M6s h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sSnkGm6M6s p {
+  text-align: left;
+}
+.cid-sSnkGm6M6s .mbr-text {
+  color: #767676;
+}
+.cid-sSnkGm6M6s .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sSnkGm6M6s .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-sSnkGm6M6s .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-rZWRxGV6NJ {
   background: #ffffff;
   padding-top: 15px;
