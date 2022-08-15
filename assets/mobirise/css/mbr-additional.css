@@ -1157,6 +1157,7 @@ section.lazy-placeholder:after {
 }
 .cid-rxdf2EB4X1 P {
   color: #efefef;
+  text-align: left;
 }
 .cid-s7wEPGbWip {
   padding-top: 15px;
@@ -2004,6 +2005,114 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-sWknJAzREs .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-tewPrNmb15 {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-tewPrNmb15 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tewPrNmb15 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-tewPCRgVX9 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-tewPCRgVX9 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tewPCRgVX9 .section-text {
+  padding: 2rem 0;
+}
+.cid-tewPCRgVX9 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-tewPCRgVX9 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-tewQ6n4Hq1 {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-tewQ6n4Hq1 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tewQ6n4Hq1 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-tewQh3cdPG {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-tewQh3cdPG .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tewQh3cdPG .section-text {
+  padding: 2rem 0;
+}
+.cid-tewQh3cdPG .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-tewQh3cdPG .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-tewQuaVxlj {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-tewQuaVxlj .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tewQuaVxlj .video-block {
+    width: 100% !important;
+  }
+}
+.cid-tewQyM5VMX {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-tewQyM5VMX .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tewQyM5VMX .section-text {
+  padding: 2rem 0;
+}
+.cid-tewQyM5VMX .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-tewQyM5VMX .inner-container {
     width: 100% !important;
   }
 }
@@ -3523,6 +3632,85 @@ section.lazy-placeholder:after {
   .cid-sWm5XIaxmy .testimonial-photo {
     width: 100% !important;
     height: auto !important;
+  }
+}
+.cid-tewS7j8l2H {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #f9f9f9;
+}
+.cid-tewS7j8l2H .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tewS7j8l2H .container-table {
+  margin: 0 auto;
+}
+.cid-tewS7j8l2H .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-tewS7j8l2H .dataTables_wrapper {
+  display: block;
+}
+.cid-tewS7j8l2H .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-tewS7j8l2H .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-tewS7j8l2H table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-tewS7j8l2H table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-tewS7j8l2H table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-tewS7j8l2H table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-tewS7j8l2H table.table {
+  background: #ffffff;
+}
+.cid-tewS7j8l2H .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-tewS7j8l2H .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-tewS7j8l2H .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-tewS7j8l2H .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-tewS7j8l2H .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-tewS7j8l2H .dataTables_filter {
+    text-align: center;
+  }
+  .cid-tewS7j8l2H .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
   }
 }
 .cid-sWOck6Wa1T {
