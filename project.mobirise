@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Мультимедийное издание \"Наш Арсеньев\"",
+    "name": "Мультимедийное издание ",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -40,12 +40,19 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "uniqCompNum": 180,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "google-analytics": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(90906690, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/90906690\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->"
   },
   "pages": {
     "index.html": {
