@@ -3721,12 +3721,12 @@
                 "active": false
               },
               {
-                "tags": "Рисунки Т.А. Безручко",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "tags": "Мультфильм к 150 летию В. К. Арсеньева",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20221129-923482022-11-4-9-43-25.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=i7gYODpEfAw&t=24s",
                 "image": "@PROJECT_PATH@/assets/images/-2-2000x2866.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2866-800x1146.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/-2-2000x2866-800x1146.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
